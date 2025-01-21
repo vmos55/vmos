@@ -1,0 +1,2 @@
+# vmos
+ini repo PBO
